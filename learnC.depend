@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534692477 source:h:\cproj\learnc\1-grammer.c
+	<stdio.h>
+	<limits.h>
+	<string.h>
+	<stdarg.h>
+
